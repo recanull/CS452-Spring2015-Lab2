@@ -1,1 +1,4 @@
-name, date, description
+Evan Canull
+2/17/2015
+Made a 2D shape on a canvis that can be moved with ASWD and has multiple colors.
+The 1 key will reset it to the orgin which is the center of the canvis.
