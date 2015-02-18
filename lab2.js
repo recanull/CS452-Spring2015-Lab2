@@ -18,16 +18,16 @@ var verticesColors = new Float32Array([
 function handleKeyDown(ev){
 	//Uses the ASCII Values of ASWD and 1
 	if (ev.keyCode == 65){ 
-		xPos -= 0.05;
+		xPos -= 0.1;
 	}
 	if (ev.keyCode == 68){
-		xPos += 0.05;		
+		xPos += 0.1;		
 	}
 	if (ev.keyCode == 87){
-		yPos += 0.05;
+		yPos += 0.1;
 	}
 	if (ev.keyCode == 83){
-		yPos -= 0.05;
+		yPos -= 0.1;
 	}
 	if (ev.keyCode == 49){ 
 		xPos = 0;
